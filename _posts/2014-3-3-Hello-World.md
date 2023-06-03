@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: Blog up and running!
 ---
+Just getting arround to setting up github pages related to my account, so used the followwing template at https://github.com/barryclark/jekyll-now to set up my pages repository (badocter.github.io) and this blog.  Not entirely sure yet if or how I will used this blog as I am still learning what features the pages have.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
